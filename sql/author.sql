@@ -7,7 +7,7 @@ use Ramsey\Uuid\Uuid;
  *
  * This is a cross section of what is stored about an author.
  *
- * @author Sam Nelson <snelson54@cnm.edu>
+ * @author Joshua Rodriguez <jrodriguez332@cnm.edu>
  * @version 1.0.0
  **/
 class author {
